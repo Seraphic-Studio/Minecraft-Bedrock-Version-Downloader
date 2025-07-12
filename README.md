@@ -10,8 +10,6 @@ A Python tool to download Minecraft Bedrock Edition versions directly from Micro
 - Command-line interface for automation
 - Graphical user interface for ease of use
 - Search and filter versions by type
-- Resume incomplete downloads
-- Beta version support with MSA authentication
 
 ## Installation
 
