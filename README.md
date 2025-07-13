@@ -111,7 +111,7 @@ This project is licensed under the GPL v3.0 License - see the LICENSE file for d
 - Verify the version name or UUID is correct
 - Check if the version list API is accessible
 
-**Beta download fails:**
+**Beta download fails(rare):**
 
 - Ensure you have a valid MSA token
 - Verify your account is subscribed to the Minecraft Beta program
