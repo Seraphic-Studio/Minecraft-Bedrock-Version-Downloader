@@ -2,7 +2,7 @@
 
 A Python tool to download Minecraft Bedrock Edition versions directly from Microsoft's servers.
 
-<img src="https://media.discordapp.net/attachments/1209366891051618394/1393588270377734274/image.png?ex=6873b7b7&is=68726637&hm=398d40ab732631e2c2292b6232699c0ed3b6d075c8f790c1136aee16872d7b7f&=&format=webp&quality=lossless" width="auto;" alt="Seraphic Studio"/>
+<img src="https://avatars.githubusercontent.com/u/220401186?s=48&v=4" width="auto;" alt="Seraphic Studio"/>
 
 ## Features
 
