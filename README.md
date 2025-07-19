@@ -79,10 +79,6 @@ python gui.py
 - `--api URL`: Custom version list API URL
 - `--search QUERY`: Search versions by name
 
-## Beta Version Authentication
-
-Beta versions require authentication with Microsoft. You need to:
-
 1. Be subscribed to the Minecraft Beta program
 2. Obtain an MSA (Microsoft Account) token
 3. Use the `--token` parameter when downloading
