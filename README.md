@@ -9,7 +9,6 @@ A Python tool to download Minecraft Bedrock Edition versions directly from Micro
 - Download any Minecraft Bedrock Appx file (Release, Beta, Preview)
 - Command-line interface for automation
 - Graphical user interface for ease of use
-- Search and filter versions by type
 
 ## Installation
 
